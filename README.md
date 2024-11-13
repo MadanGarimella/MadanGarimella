@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MadanGarimella
 - 👀 I’m interested in Learning New things
-- 🌱 I’m currently learning Back End Development
+- 🌱 I’m currently learning Full Stack Development
+- 💭 Ask me about Front-End Development
 - 📫 How to reach me madangarimella@gmail.com
 - ⚡ Fun fact: I do what I think
 
