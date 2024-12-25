@@ -4,6 +4,7 @@
 - 💭 Ask me about Front-End Development
 - 📫 How to reach me madangarimella@gmail.com
 - ⚡ Fun fact: I do what I think
+- ✨Open to take up Projects 
 
 <!---
 MadanGarimella/MadanGarimella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
